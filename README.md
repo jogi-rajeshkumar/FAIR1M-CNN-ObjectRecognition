@@ -45,25 +45,6 @@ Input (224x224x3)
 
 ---
 
-## 🏗️ Project Structure
-
-```
-FAIR1M-CNN-ObjectRecognition/
-│
-├── data/                        # FAIR1M TIFF images and XML annotations
-├── generator/                  # Custom FAIR1MGenerator class
-├── models/                     # Trained model weights
-├── notebooks/                  # Jupyter/Colab notebooks
-├── outputs/
-│   ├── predictions/            # Annotated prediction visualizations
-│   ├── confusion_matrix.png    # Confusion matrix image
-│   └── accuracy_plot.png       # Training/validation accuracy curves
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 📈 Results
 
 ### 🎯 Accuracy
