@@ -81,7 +81,7 @@ FAIR1M-CNN-ObjectRecognition/
 ### 📸 Predicted Output Visualizations
 
 ![Sample Output 1](results/predicted_combined_images/100_predicted.jpg)
-![Sample Output 2](results/predicted_combined_images/1036predicted.jpg)
+![Sample Output 2](results/predicted_combined_images/1036_predicted.jpg)
 ![Sample Output 3](results/predicted_combined_images/1054_predicted.jpg)
 
 ---
