@@ -80,9 +80,9 @@ FAIR1M-CNN-ObjectRecognition/
 
 ### 📸 Predicted Output Visualizations
 
-![Urban Scene](results/predicted_combined_images/100_predicted.jpg)
-![Maritime Scene](results/predicted_combined_images/1036predicted.jpg)
-![Airport Scene](results/predicted_combined_images/1054_predicted.jpg)
+![Sample Output 1](results/predicted_combined_images/100_predicted.jpg)
+![Sample Output 2](results/predicted_combined_images/1036predicted.jpg)
+![Sample Output 3](results/predicted_combined_images/1054_predicted.jpg)
 
 ---
 
