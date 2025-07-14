@@ -37,7 +37,11 @@ Input (224x224x3)
 - 15,000 high-resolution TIFF images
 - Over 1 million object annotations across 37 subcategories
 
-![FAIR1M Sample Image](images/sample_fair1m.jpg)
+### 🖼️ FAIR1M Sample Images
+
+![FAIR1M Sample 1](images/100.tif)
+![FAIR1M Sample 2](images/1024.tif)
+![FAIR1M Sample 3](images/1054.tif)
 
 ---
 
@@ -74,9 +78,11 @@ FAIR1M-CNN-ObjectRecognition/
 
 ![Confusion Matrix](outputs/confusion_matrix.png)
 
-### 📸 Sample Predictions
+### 📸 Predicted Output Visualizations
 
-![Sample Predictions](outputs/predictions/urban_scene.png)
+![Urban Scene](outputs/predictions/urban_scene.png)
+![Maritime Scene](outputs/predictions/maritime_scene.png)
+![Airport Scene](outputs/predictions/airport_scene.png)
 
 ---
 
@@ -113,4 +119,3 @@ python train_model.py
 Made with ❤️ by **Rajesh Kumar Jogi**  
 📧 [rajeshjogi@email.com](mailto:rajeshjogi@email.com)  
 🌐 [LinkedIn](https://www.linkedin.com)
-
