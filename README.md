@@ -39,9 +39,9 @@ Input (224x224x3)
 
 ### 🖼️ FAIR1M Sample Images
 
-![FAIR1M Sample 1](images/100.tif)
-![FAIR1M Sample 2](images/1024.tif)
-![FAIR1M Sample 3](images/1054.tif)
+![FAIR1M Sample 1](images/100.jpg)
+![FAIR1M Sample 2](images/1024.jpg)
+![FAIR1M Sample 3](images/1054.jpg)
 
 ---
 
@@ -72,37 +72,17 @@ FAIR1M-CNN-ObjectRecognition/
 
 ### 📊 Accuracy Curve
 
-![Accuracy Plot](outputs/accuracy_plot.png)
+![Accuracy Plot](results/accuracy_curve.png)
 
 ### 🔁 Confusion Matrix
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ### 📸 Predicted Output Visualizations
 
-![Urban Scene](outputs/predictions/urban_scene.png)
-![Maritime Scene](outputs/predictions/maritime_scene.png)
-![Airport Scene](outputs/predictions/airport_scene.png)
-
----
-
-## 🔧 Setup & Run
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/FAIR1M-CNN-ObjectRecognition.git
-cd FAIR1M-CNN-ObjectRecognition
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train_model.py
-```
+![Urban Scene](results/predicted_combined_images/100_predicted.jpg)
+![Maritime Scene](results/predicted_combined_images/1024predicted.jpg)
+![Airport Scene](results/predicted_combined_images/1054_predicted.jpg)
 
 ---
 
