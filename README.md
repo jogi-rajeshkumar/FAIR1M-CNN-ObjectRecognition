@@ -69,14 +69,20 @@ Input (224x224x3)
 
 ## 📚 References
 
-- Lin, D. et al., FAIR1M Dataset [IEEE TGRS, 2021](https://huggingface.co/papers/2103.05569)
-- Chollet, F. et al., *Keras Library*, 2015
-- He, K. et al., *Deep Residual Learning*, CVPR 2016
-
+- Lin, D. et al., FAIR1M Dataset IEEE TGRS, 2021
+- Chollet, F. et al., Keras Library, GitHub, 2015
+- Redmon, J. et al., You Only Look Once: Unified, Real-Time Object Detection, CVPR 2016
+- Ren, S. et al., Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NeurIPS 2015
+- He, K. et al., Deep Residual Learning for Image Recognition, CVPR 2016
+- Deng, J. et al., ImageNet: A Large-Scale Hierarchical Image Database, CVPR 2009
+- Tan, M. and Le, Q.V., EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, ICML 2019
+- Simonyan, K. and Zisserman, A., Very Deep Convolutional Networks for Large-Scale Image Recognition, arXiv:1409.1556, 2014
+- Everingham, M. et al., The Pascal Visual Object Classes (VOC) Challenge, IJCV 2010
+- Krizhevsky, A., Sutskever, I. and Hinton, G.E., ImageNet Classification with Deep Convolutional Neural Networks, NeurIPS 2012
 ---
 
 ## 📬 Contact
 
 Made with ❤️ by **Rajesh Kumar Jogi**  
 📧 [rajeshjogi@email.com](mailto:rajeshjogi@email.com)  
-🌐 [LinkedIn](https://www.linkedin.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/jogi-rajesh-kumar/)
